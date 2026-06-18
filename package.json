@@ -4,7 +4,7 @@
   "description": "Minecraft in browser",
   "main": "index.js",
   "scripts": {
-    "start": "prismarine-web-client"
+    "start": "node index.js"
   },
   "dependencies": {
     "minecraft-data": "^3.0.0",
